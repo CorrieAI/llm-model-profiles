@@ -1,0 +1,13 @@
+name: Claude 3.5 Sonnet
+provider: anthropic
+model: claude-3-5-sonnet-20241022
+api_base: https://api.anthropic.com
+temperature: 0.7
+max_tokens: 8192
+context_window: 200000
+description: Anthropic's balanced model with strong creative capabilities
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for: Creative writing with nuanced character development
+cost_estimate: $3.00/1M input, $15.00/1M output tokens

@@ -1,0 +1,13 @@
+name: GPT-4o Mini
+provider: openai
+model: gpt-4o-mini
+api_base: https://api.openai.com/v1
+temperature: 0.7
+max_tokens: 16384
+context_window: 128000
+description: Fast and affordable model for creative writing
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for: Balanced performance and cost for story generation
+cost_estimate: $0.15/1M input, $0.60/1M output tokens

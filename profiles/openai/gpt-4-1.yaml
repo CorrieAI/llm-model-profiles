@@ -1,0 +1,13 @@
+name: GPT-4.1
+provider: openai
+model: gpt-4.1
+api_base: https://api.openai.com/v1
+temperature: 0.7
+max_tokens: 32768
+context_window: 1047576
+description: Model for complex tasks. It is well suited for problem solving across domains.
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for: Excellent story generation but expensive. Best for high-end use cases where quality is critical.
+cost_estimate: $2/1M input, $8/1M output tokens
