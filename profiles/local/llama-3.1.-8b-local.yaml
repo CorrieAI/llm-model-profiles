@@ -1,0 +1,13 @@
+name: Llama 3.1 8B (Local)
+provider: ollama
+model: llama3.1:8b
+api_base: http://localhost:11434/v1
+temperature: 0.7
+max_tokens: 8092
+context_window: 128000
+description: Local Llama model for privacy-conscious story generation
+supports_images: false
+supports_tools: true
+provider_settings: {}
+recommended_for: Local story generation with good quality/performance balance
+cost_estimate: Free (local compute)
