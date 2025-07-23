@@ -1,4 +1,4 @@
-name: GPT-4.1-mini
+name: kimi-k2-instruct
 provider: groq
 model: moonshotai/kimi-k2-instruct
 api_base: https://api.groq.com/openai/v1
