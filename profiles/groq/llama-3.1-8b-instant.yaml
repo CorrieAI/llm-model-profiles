@@ -1,0 +1,13 @@
+name: llama-3.1-8b-instant
+provider: groq
+model: meta/llama-3.1-8b-instant
+api_base: https://api.groq.com/openai/v1
+temperature: 0.7
+max_tokens: 131072
+context_window: 131072
+description: Llama 3.1 8B on Groq provides low-latency, high-quality responses suitable for real-time conversational interfaces, content filtering systems, and data analysis applications.
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for: This model offers a balance of speed and performance with significant cost savings compared to larger models.
+cost_estimate: $0.05/1M input, $0.08/1M output tokens
