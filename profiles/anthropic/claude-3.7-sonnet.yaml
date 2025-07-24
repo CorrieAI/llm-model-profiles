@@ -5,7 +5,7 @@ api_base: https://api.anthropic.com
 temperature: 0.7
 max_tokens: 64000
 context_window: 200000
-description: Anthropic's balanced model with strong creative capabilities
+description: Anthropic's high-performance model with early extended thinking
 supports_images: true
 supports_tools: true
 provider_settings: {}
