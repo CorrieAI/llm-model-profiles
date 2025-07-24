@@ -1,0 +1,13 @@
+name: Mistral Small 3.2 24B Free
+provider: openrouter
+model: mistralai/mistral-small-3.2-24b-instruct:free
+api_base: https://openrouter.ai/api/v1
+temperature: 0.7
+max_tokens: 96000
+context_window: 96000
+description: Mistral's Small 3.2 model with 24 billion parameters, optimized for instruction-following tasks
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for: 
+cost_estimate: $0.00/1M input, $0.00/1M output tokens

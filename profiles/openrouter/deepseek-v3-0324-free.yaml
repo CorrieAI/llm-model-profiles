@@ -1,0 +1,13 @@
+name: DeepSeek V3 0324 Free
+provider: openrouter
+model: deepseek/deepseek-chat-v3-0324:free
+api_base: https://openrouter.ai/api/v1
+temperature: 0.7
+max_tokens: 164000
+context_window: 164000
+description: DeepSeek's V3 model optimized for high performance and efficiency
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for: 
+cost_estimate: $0.00/1M input, $0.00/1M output tokens

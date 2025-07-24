@@ -1,0 +1,13 @@
+name: deepseek-r1-distill-llama-70b
+provider: groq
+model: deepseek-r1-distill-llama-70b
+api_base: https://api.groq.com/openai/v1
+temperature: 0.7
+max_tokens: 131072
+context_window: 131072
+description: DeepSeek R1 is Groq's state-of-the-art Mixture-of-Experts (MoE) language model with 1 trillion total parameters and 32 billion activated parameters.
+supports_images: true
+supports_tools: true
+provider_settings: {}
+recommended_for:
+cost_estimate: $0.75/1M input, $0.99/1M output tokens
